@@ -1,0 +1,110 @@
+Microsoft Windows [Version 10.0.26100.4946]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\elois>cd Downloads
+
+C:\Users\elois\Downloads>mkdir JOSUE_E.J._OS-LQ1
+
+C:\Users\elois\Downloads>cd JOSUE_E.J._OS-LQ1
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>mkdir cache
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>mkdir scr
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>mkdir common
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>mkdir installer
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>mkdir user
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>cd common
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\common>mkdir "h"\"i"\"j"\"k"\"l"\"m"
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\common>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>cd src
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\src>mkdir "a"\"b"\"c"\"d"\"e"\"f"\"g"
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\src>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>cd cache
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\cache>mkdir a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\cache>mkdir 1 2 3 4 5 6 7 8 9 10
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\cache>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>cd user
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>mkdir user_jerico
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>mkdir user_eliza
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>mkdir user_juan
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>cd user_jerico
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico>mkdir user_preference
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico>mkdir user_profile
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico>mkdir user_settings
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico>cd user_settings
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico\user_settings>mkdir AppVersion
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico\user_settings>mkdir OSversion
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico\user_settings>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_jerico>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>cd user_eliza
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza>mkdir user_preference
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza>mkdir user_profile
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza>mkdir user_settings
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza>cd user_settings
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza\user_settings>mkdir AppVersion
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza\user_settings>mkdir OSversion
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza\user_settings>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_eliza>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>cd user_juan
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan>mkdir user_preference
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan>mkdir user_profile
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan>mkdir user_settings
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan>cd user_settings
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan\user_settings>mkdir AppVersion
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan\user_settings>mkdir OSversion
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan\user_settings>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user\user_juan>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\user>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>cd installer
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\installer>mkdir installer_folder
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1\installer>cd..
+
+C:\Users\elois\Downloads\JOSUE_E.J._OS-LQ1>
